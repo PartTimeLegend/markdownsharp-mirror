@@ -1,0 +1,10 @@
+C:\Users\Antony\Documents\GitHub\markdownsharp-mirror\MarkdownSharpTests\bin\Debug\MarkdownSharpTests.exe.config
+C:\Users\Antony\Documents\GitHub\markdownsharp-mirror\MarkdownSharpTests\bin\Debug\MarkdownSharpTests.exe
+C:\Users\Antony\Documents\GitHub\markdownsharp-mirror\MarkdownSharpTests\bin\Debug\MarkdownSharpTests.pdb
+C:\Users\Antony\Documents\GitHub\markdownsharp-mirror\MarkdownSharpTests\bin\Debug\log4net.dll
+C:\Users\Antony\Documents\GitHub\markdownsharp-mirror\MarkdownSharpTests\bin\Debug\MarkdownSharp.dll
+C:\Users\Antony\Documents\GitHub\markdownsharp-mirror\MarkdownSharpTests\bin\Debug\nunit.framework.dll
+C:\Users\Antony\Documents\GitHub\markdownsharp-mirror\MarkdownSharpTests\bin\Debug\MarkdownSharp.pdb
+C:\Users\Antony\Documents\GitHub\markdownsharp-mirror\MarkdownSharpTests\obj\Debug\MarkdownSharpTests.csprojResolveAssemblyReference.cache
+C:\Users\Antony\Documents\GitHub\markdownsharp-mirror\MarkdownSharpTests\obj\Debug\MarkdownSharpTests.exe
+C:\Users\Antony\Documents\GitHub\markdownsharp-mirror\MarkdownSharpTests\obj\Debug\MarkdownSharpTests.pdb
