@@ -14,3 +14,5 @@ Okay, I'll also take [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclic
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Build Status](https://travis-ci.org/PartTimeLegend/markdownsharp-mirror.png?branch=master)](https://travis-ci.org/PartTimeLegend/markdownsharp-mirror)
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=parttimelegend&url=https://github.com/PartTimeLegend/markdownsharp-mirror&title=Markdown Sharp&language=&tags=github&category=software) 
